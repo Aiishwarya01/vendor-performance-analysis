@@ -72,27 +72,22 @@ vendor-performance-analysis/
 git clone https://github.com/Aiishwarya01/vendor-performance-analysis.git
 ```
 
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-
-3.Load the CSVs and ingest into database:
+2. Load the CSVs and ingest into database:
 ```
 python scripts/ingestion_db1.py
 ```
 
-4.Create vendor summary table:
+3. Create vendor summary table:
 ```
 python scripts/get_vendor_summary.py
 ```
 
-5.Open and run notebooks:
+4. Open and run notebooks:
   - `notebooks/EDA.ipynb`
-  - `notebooks/vendor_performance_analysis.ipynb`
+  - `notebooks/Vendor Performance Analysis.ipynb`
 
-6.Open Power BI Dashboard:
-  - `dashboard/vendor_performance.pbix`
+5. Open Power BI Dashboard:
+  - `dashboard/vendor_performance(1).pbix`
 
 ---
 ## Contact
