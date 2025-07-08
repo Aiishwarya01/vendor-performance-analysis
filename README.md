@@ -51,7 +51,7 @@ vendor-performance-analysis/
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── EDA.ipynb
-│   ├── vendor_performance_analysis.ipynb
+│   ├── Vendor Performance Analysis.ipynb
 │
 ├── scripts/                    # Python scripts for ingestion and processing
 │   ├── ingestion_db1.py
